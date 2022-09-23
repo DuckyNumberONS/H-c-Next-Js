@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
+body{
+  background: white;
+  color: black;
+  font-family:'Dangrek';
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+.content{
+  max-width: 960px;
+  margin: 0 auto;
+}
+nav{
+  margin: 10px auto 80px;
+  padding: 10px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+}
